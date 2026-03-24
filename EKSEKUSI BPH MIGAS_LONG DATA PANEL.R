@@ -1,3 +1,4 @@
+# INI BUKA FILE YANG BELUM LONG PANEL
 library(readxl)
 data_bphmigas <- read_excel(file.choose())
 view(data_bphmigas)
